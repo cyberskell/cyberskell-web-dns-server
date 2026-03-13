@@ -1,0 +1,1 @@
+phpMyAdmin symlinked with: sudo ln -s /usr/share/phpmyadmin /var/www.cyberskell.com/phpmyadmin
