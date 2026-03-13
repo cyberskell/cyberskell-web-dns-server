@@ -8,7 +8,7 @@ $TTL 86400
             86400       ; Minimum TTL
 )
 @	IN    NS    ns1.cyberskell.com.
-ns1     IN    A     108.40.123.189
-@       IN    A     108.40.123.189
-www     IN    A     108.40.123.189
+ns1     IN    A     YOUR_SERVER_IP
+@       IN    A     YOUR_SERVER_IP
+www     IN    A     YOUR_SERVER_IP
 
